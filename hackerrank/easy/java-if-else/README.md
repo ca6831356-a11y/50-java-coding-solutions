@@ -53,7 +53,7 @@ Print `Weird` if the number is weird; otherwise, print `Not Weird`.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T15:37:27.048Z  
+**Submitted:** 2026-09-30T15:37:42.378Z  
 
 ```java
 import java.util.Scanner;
@@ -71,7 +71,7 @@ public class Main{
         }else {
             System.out.println("Not Weird");
         }
-        sc.close();
+        
     }
 }
 
